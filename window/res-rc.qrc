@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/lock.svg</file>
+    <file>icons/person.svg</file>
+    <file>icons/person_black.svg</file>
+  </qresource>
+</RCC>
